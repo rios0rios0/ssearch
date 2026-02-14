@@ -28,6 +28,7 @@ Exceptions are acceptable depending on the circumstances (critical bug fixes tha
 - created method for search with `hidra` - [RD-151](https://intruderlabs.atlassian.net/browse/RD-151)
 - created file `client_interface` and add methods inside - [RD-43.19](https://intruderlabs.monday.com/boards/3797906866/pulses/3984323973)
 - code sample has been improved in `README.md` - [4162823734](https://intruderlabs.monday.com/boards/3790337872/pulses/4162823734)
+- changed the Go version to `1.26.0` and updated all module dependencies
 
 ### Removed
 
